@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
+int main() {
     // insert code here...
 
         printf("Poorly formatted code is a red flag to employers.\n"
