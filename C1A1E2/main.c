@@ -16,7 +16,7 @@ int main() {
         "Five backslashes: \\\\\\\\\\\n"
         "Six double quotes: \"\"\"\"\"\"\n"
         "Seven percent signs: %%%%%%%%%%%%%%\n"
-        "No partridge and no pear tree!");
+        "No partridge and no pear tree!\n");
         
         return 0;
 }
